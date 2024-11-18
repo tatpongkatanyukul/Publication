@@ -4,7 +4,7 @@
 
 # Coming
 
-* [Extend Grover Search Using Quantum Eigenmarking](https://github.com/tatpongkatanyukul/Publication/tree/main/QEigenMarking)
+* [Exploration Eigenmarking](https://github.com/tatpongkatanyukul/Publication/tree/main/QEigenMarking)
 
 ---
 # Y2024
