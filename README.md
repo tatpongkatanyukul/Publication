@@ -2,9 +2,9 @@
 
 ---
 
-# Coming
+# Y2025
 
-* [Exploration Eigenmarking](https://github.com/tatpongkatanyukul/Publication/tree/main/QEigenMarking)
+* [Toward Entailment Checking: Exploration Eigenmarking Search](https://github.com/tatpongkatanyukul/Publication/tree/main/QEigenMarking)
 
 ---
 # Y2024
