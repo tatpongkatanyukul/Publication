@@ -40,3 +40,22 @@ Grover probability amplitude
 Closed form:
 * $k_j = \sin( (2 j + 1) \theta )$
 * $\ell_j = \frac{1}{\sqrt{N-1}} \cos( (2j + 1) \theta )$
+
+where $\sin^2 \theta = 1/N$.
+
+Derivation of the closed form.
+1. Let's consider $j=1$,
+
+   \begin{align}
+   k_1 &= \frac{N-2}{N} k_0 + \frac{2(N-1)}{N} \ell_0
+   \\
+   &= \frac{N-2}{N} \frac{1}{\sqrt{N}} + \frac{2(N-1)}{N} \frac{1}{\sqrt{N}}
+   \end{align}
+
+3. Let $\sin \theta \equiv \frac{1}{\sqrt{N}}$, hence
+
+   \begin{align}
+   k_1 &= \frac{N-2}{N} \sin \theta + \frac{2 \sqrt{N-1} }{N} \sqrt{N-1} \frac{1}{\sqrt{N}}
+   \end{align}
+   
+   
