@@ -58,4 +58,6 @@ k_1 &= \frac{N-2}{N} k_0 + \frac{2(N-1)}{N} \ell_0
    k_1 &= \frac{N-2}{N} \sin \theta + \frac{2 \sqrt{N-1} }{N} \sqrt{N-1} \frac{1}{\sqrt{N}}
    \end{eqnarray}
    
-   
+\begin{align}
+x &= 3^2
+\end{align}
