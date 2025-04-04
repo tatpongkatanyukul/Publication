@@ -30,3 +30,7 @@
 
 ## Extra note: deriving a closed form of probability amplitudes
 
+Grover probability amplitude
+* $k_0 = \frac{1}{\sqrt{N}}$ and $\ell_0 = \frac{1}{\sqrt{N}}$
+
+* $k_j = \frac{N-2}{N} k_{j-1} + \frac{2(N-1)}{N} \ell_{j-1}$
