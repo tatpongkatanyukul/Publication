@@ -25,3 +25,8 @@
 > Our study explores various schemes of "eigenmarking" approach.
 > Still relying on Grover operations, but the approach introduces additional qubits to tag the eigenstates. The tagged eigenstates are to facilitate an interpretation of the measured results and enhance identification of a no-winner case (related to no logic violation in entailment context).
 > Our investigation experiments three variations of eigenmarking on a two-qubit system using an IBM Aer simulator. The results show strong distinguishability in all schemes with the best relative distinguishabilities of 19 and 53 in worst case and in average case, respectively. Our findings reveal a viable quantum mechanism to differentiate a no-winner case from other scenarios, which could play a pivot role in entailment checking and logic reasoning in general.
+
+---
+
+## Extra note: deriving a closed form of probability amplitudes
+
