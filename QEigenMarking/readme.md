@@ -37,3 +37,6 @@ Grover probability amplitude
 
 * $\ell_j = -\frac{2}{N} k_{j-1} + \frac{N-1}{N} \ell_{j-1}$ for $j=1,2,\ldots$
 
+Closed form:
+* $k_j = \sin( (2 j + 1) \theta )$
+* $\ell_j = \frac{1}{\sqrt{N-1}} \cos( (2j + 1) \theta )$
