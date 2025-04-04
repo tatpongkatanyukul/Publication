@@ -46,14 +46,16 @@ where $\sin^2 \theta = 1/N$.
 Derivation of the closed form.
 1. Let's consider $j=1$,
 
-\begin{align}
+\begin{eqnarray}
 k_1 &= \frac{N-2}{N} k_0 + \frac{2(N-1)}{N} \ell_0
-\end{align}
+\\
+&= \frac{N-2}{N} \frac{1}{\sqrt{N}} + \frac{2(N-1)}{N} \frac{1}{\sqrt{N}}
+\end{eqnarray}
 
 3. Let $\sin \theta \equiv \frac{1}{\sqrt{N}}$, hence
 
-   \begin{align}
+   \begin{eqnarray}
    k_1 &= \frac{N-2}{N} \sin \theta + \frac{2 \sqrt{N-1} }{N} \sqrt{N-1} \frac{1}{\sqrt{N}}
-   \end{align}
+   \end{eqnarray}
    
    
