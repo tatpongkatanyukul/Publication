@@ -1,6 +1,6 @@
 # Quantum Eigenmarking
 
-* [Paper (draft)](https://github.com/tatpongkatanyukul/Publication/blob/main/QEigenMarking/ArxivSearchEigenV2.pdf)
+* [Paper (manuscript)](https://github.com/tatpongkatanyukul/Publication/blob/main/QEigenMarking/ArXiv_view.pdf)
 
 * [Presentation](https://github.com/tatpongkatanyukul/Publication/blob/main/QEigenMarking/EigenmarkingV4_8min.pptx) ([pdf](https://github.com/tatpongkatanyukul/Publication/blob/main/QEigenMarking/PresentationEigenmarkingV4_12Slides.pdf))
 
