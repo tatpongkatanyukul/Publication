@@ -5,6 +5,7 @@
 # Y2025
 
 * [Toward Entailment Checking: Exploration Eigenmarking Search](https://github.com/tatpongkatanyukul/Publication/tree/main/QEigenMarking)
+  * https://arxiv.org/pdf/2506.03771
 
 ---
 
