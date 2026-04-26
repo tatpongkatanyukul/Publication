@@ -4,7 +4,7 @@
 
 # Y2025
 
-* [Explore Simpler Eigenmarking: Quantum Entailment Model Checking]
+* [Explore Simpler Eigenmarking: Quantum Entailment Model Checking](https://github.com/tatpongkatanyukul/Publication/tree/main/QExploreSimpler)
 
 * [Toward Entailment Checking: Exploration Eigenmarking Search](https://github.com/tatpongkatanyukul/Publication/tree/main/QEigenMarking)
   * https://arxiv.org/pdf/2506.03771
